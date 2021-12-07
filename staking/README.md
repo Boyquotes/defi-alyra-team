@@ -9,7 +9,7 @@ truffle migrate --reset
 
 ![screenshot](screenshot.png)
 
-- Repertoire staking
+- Aller dans le repertoire staking
 ## Install
 1. Install truffle/contract dependencies:
 ```
@@ -39,10 +39,15 @@ truffle migrate --reset
 ```
 cd client
 yarn start
+```
 
-Reset reward countdown to stop reward
+Reset reward countdown to stop reward    
+
 In truffle console :
+```
 truffle console:
+```    
+Execute :
 ```
 timestamp = (await web3.eth.getBlock(await await web3.eth.getBlockNumber()))['timestamp']
 advancetime = new Promise((resolve,reject) => { web3.currentProvider.send({jsonrpc:'2.0', method: 'evm_mine', params: [timestamp+60*60*24*15], id: timestamp}, (err, result) => { if (err) { return reject(err) } return resolve(result); }) })
