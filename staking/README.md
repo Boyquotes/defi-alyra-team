@@ -2,14 +2,15 @@
 
 
 # Fork Masterchef Sushiswap
-Compiler les contrats 
-truffle migrate --reset
 
 # Stacking
 
 ![screenshot](screenshot.png)
 
 - Aller dans le repertoire staking
+## Compiler les contrats 
+truffle migrate --reset
+
 ## Install
 1. Install truffle/contract dependencies:
 ```
