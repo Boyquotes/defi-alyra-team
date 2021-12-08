@@ -2,7 +2,7 @@
 
 pragma solidity 0.6.6;
 
-contract ERC20_2{
+contract fDAI{
 
     mapping (address => uint) public balanceOf;
     mapping (address => mapping (address => uint256)) public allowance;

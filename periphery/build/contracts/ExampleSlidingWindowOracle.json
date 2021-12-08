@@ -245,9 +245,9 @@
     ]
   },
   "sourceMap": "704:5705:16:-:0;;;1975:427;5:9:-1;2:2;;;27:1;24;17:12;2:2;1975:427:16;;;;;;;;;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;1975:427:16;;;;;;;;;;;;;;2083:1;2068:16;;;;2060:61;;;;;-1:-1:-1;;;2060:61:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2212:11;2152:56;;;;2212:11;2152:56;2166:26;;;;;2153:39;;;;2152:56;:71;2131:166;;;;-1:-1:-1;;;2131:166:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2307:18;;;;-1:-1:-1;;;;;;2307:18:16;;;2335:24;;;;2369:26;;;;;;;;704:5705;;-1:-1:-1;;;;;704:5705:16;;;;;;;;;;;;;;;;;;;",
-  "deployedSourceMap": "704:5705:16:-:0;;;;5:9:-1;2:2;;;27:1;24;17:12;2:2;704:5705:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12:1:-1;9;2:12;1643:34:16;;;:::i;:::-;;;;;;;;;;;;;;;;;;;1058:32;;;:::i;:::-;;;;;;;;;;;;;;;;5345:1062;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;5345:1062:16;;;;;;;;;;;;;;;;;:::i;1911:57::-;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;1911:57:16;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;922:32;;;:::i;:::-;;;;-1:-1:-1;;;;;922:32:16;;;;;;;;;;;;;;3373:1050;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;3373:1050:16;;;;;;;;;;:::i;:::-;;2489:185;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;2489:185:16;;:::i;1794:32::-;;;:::i;1643:34::-;;;:::o;1058:32::-;;;:::o;5345:1062::-;5435:14;5461:12;5476:52;5501:7;5510;5519:8;5476:24;:52::i;:::-;5461:67;;5538:36;5577:33;5605:4;5577:27;:33::i;:::-;5658:26;;5538:72;;-1:-1:-1;5640:15:16;:44;5717:10;5702:25;;;5694:89;;;;-1:-1:-1;;;5694:89:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5861:10;5874:1;5861:14;5848:10;:27;5833:11;:42;;5825:99;;;;-1:-1:-1;;;5825:99:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5936:21;5959;5985:52;6032:4;5985:46;:52::i;:::-;5935:102;;;;;6048:14;6067:46;6095:7;6104:8;6067:27;:46::i;:::-;6047:66;;;6138:7;-1:-1:-1;;;;;6128:17:16;:6;-1:-1:-1;;;;;6128:17:16;;6124:277;;;6168:92;6185:16;:33;;;6220:16;6238:11;6251:8;6168:16;:92::i;:::-;6161:99;;;;;;;;;;6124:277;6298:92;6315:16;:33;;;6350:16;6368:11;6381:8;6298:16;:92::i;5345:1062::-;;;;;;:::o;1911:57::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;1911:57:16;;-1:-1:-1;1911:57:16;:::o;922:32::-;;;:::o;3373:1050::-;3440:12;3455:49;3480:7;3489:6;3497;3455:24;:49::i;:::-;-1:-1:-1;;;;;3601:22:16;;3592:6;3601:22;;;;;;;;;;:29;3440:64;;-1:-1:-1;3587:121:16;3636:11;3632:15;;:1;:15;3587:121;;;-1:-1:-1;;;;;3668:22:16;;:16;:22;;;;;;;;;;27:10:-1;;3668:29:16;23:18:-1;;;45:23;;3668:29:16;;3649:3;3587:121;;;;3772:22;3797:35;3816:15;3797:18;:35::i;:::-;-1:-1:-1;;;;;3876:22:16;;3842:31;3876:22;;;;;;;;;;:40;;3772:60;;-1:-1:-1;3842:31:16;;3876:40;;;;;;;;;;;;;;;;;;;;;;;4054:21;;3876:40;;-1:-1:-1;4036:15:16;:39;4103:10;4089:24;;4085:332;;;4130:21;4153;4179:52;4226:4;4179:46;:52::i;:::-;-1:-1:-1;4269:15:16;4245:39;;4298:28;;;:47;;;;4359:28;;;:47;-1:-1:-1;;4085:332:16;3373:1050;;;;;;:::o;2489:185::-;2554:11;2577:16;2608:10;2596:9;:22;;;;;;2577:41;;2655:11;2641:25;;:11;:25;;;;;;;2489:185;-1:-1:-1;;;2489:185:16:o;1794:32::-;;;:::o;715:470:26:-;804:12;829:14;845;863:26;874:6;882;863:10;:26::i;:::-;1023:32;;;-1:-1:-1;;1023:32:26;;;;;;;;;;;;;;;;;;;;;;;;;22::-1;26:21;;;22:32;6:49;;1023:32:26;;;;;1013:43;;;;;;-1:-1:-1;;;;;;929:246:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;26:21:-1;;;22:32;;;6:49;;929:246:26;;;;;;;919:257;;;;;;;;;715:470;-1:-1:-1;;;;;715:470:26:o;2795:425:16:-;2868:36;2916:22;2941:35;2960:15;2941:18;:35::i;:::-;2916:60;;3073:27;3128:11;3103:36;;3104:16;3123:1;3104:20;3103:36;;;;;;;;3073:66;;3168:16;:22;3185:4;-1:-1:-1;;;;;3168:22:16;-1:-1:-1;;;;;3168:22:16;;;;;;;;;;;;3191:21;3168:45;;;;;;;;;;;;;;;;;;;;3149:64;;2795:425;;;;;:::o;646:1040:28:-;730:21;753;776;826:23;:21;:23::i;:::-;809:40;;893:4;-1:-1:-1;;;;;878:41:28;;:43;;;;;;;;;;;;;;;;;;;;;;5:9:-1;2:2;;;27:1;24;17:12;2:2;878:43:28;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;878:43:28;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;878:43:28;950;;;-1:-1:-1;;;950:43:28;;;;878;;-1:-1:-1;;;;;;950:41:28;;;;;:43;;;;;878;;950;;;;;;;;:41;:43;;;2:2:-1;;;;27:1;24;17:12;2:2;950:43:28;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;950:43:28;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;950:43:28;1170:34;;;-1:-1:-1;;;1170:34:28;;;;950:43;;-1:-1:-1;1105:16:28;;;;;;-1:-1:-1;;;;;1170:32:28;;;;;:34;;;;;;;;;;;;;;:32;:34;;;2:2:-1;;;;27:1;24;17:12;2:2;1170:34:28;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1170:34:28;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;1170:34:28;;;;;;;;;;;;;-1:-1:-1;1170:34:28;;-1:-1:-1;1170:34:28;-1:-1:-1;1218:36:28;;;;;;;;1214:466;;1338:35;;;1481:62;;;1486:39;-1:-1:-1;;;;;1486:39:28;;;;;;:19;:39::i;:::-;:42;;;-1:-1:-1;;;;;1481:48:28;:62;1461:82;;;;1658:11;1607:62;;1612:39;1632:8;-1:-1:-1;;;;;1612:39:28;1642:8;-1:-1:-1;;;;;1612:39:28;:19;:39::i;:::-;:42;-1:-1:-1;;;;;1607:48:28;:62;1587:82;;;;;-1:-1:-1;1214:466:28;646:1040;;;;;;;;:::o;281:345:26:-;356:14;372;416:6;-1:-1:-1;;;;;406:16:26;:6;-1:-1:-1;;;;;406:16:26;;;398:66;;;;-1:-1:-1;;;398:66:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;502:6;-1:-1:-1;;;;;493:15:26;:6;-1:-1:-1;;;;;493:15:26;;:53;;531:6;539;493:53;;;512:6;520;493:53;474:72;;-1:-1:-1;474:72:26;-1:-1:-1;;;;;;564:20:26;;556:63;;;;;-1:-1:-1;;;556:63:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;281:345;;;;;:::o;4623:433:16:-;4778:14;4836:40;;:::i;:::-;4879:110;;;;;;;;4967:11;4943:20;4922:18;:41;4921:57;;;;;;-1:-1:-1;;;;;4879:110:16;;;4836:153;-1:-1:-1;5011:38:16;:26;4836:153;5028:8;5011:16;:26::i;:::-;:36;:38::i;:::-;-1:-1:-1;;;;;4999:50:16;;4623:433;-1:-1:-1;;;;;;4623:433:16:o;422:121:28:-;510:25;:15;:25;;422:121::o;4526:706:2:-;4607:16;;:::i;:::-;4657:1;4643:11;:15;4635:66;;;;-1:-1:-1;;;4635:66:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4715:14;4711:50;;-1:-1:-1;4738:23:2;;;;;;;;;-1:-1:-1;4738:23:2;;4731:30;;4711:50;-1:-1:-1;;;;;4776:24:2;;4772:454;;4816:14;4861:11;531:3;4834:23;;;4861:11;4833:39;;;;;;-1:-1:-1;;;;;;4894:21:2;;;4886:64;;;;;-1:-1:-1;;;4886:64:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;4971:26;;;;;;;;4989:6;-1:-1:-1;;;;;4971:26:2;;;;4964:33;;;;;4772:454;5028:14;5045:45;5061:9;-1:-1:-1;;;5078:11:2;5045:15;:45::i;:::-;5028:62;-1:-1:-1;;;;;;5112:21:2;;;5104:64;;;;;-1:-1:-1;;;5104:64:2;;;;;;;;;;;;;;;;;;;;;;;;;;;4772:454;4526:706;;;;:::o;1694:237::-;1764:16;;:::i;:::-;1792:9;1823:6;;;:42;;-1:-1:-1;;1858:7:2;;-1:-1:-1;;;;;1833:32:2;1838:11;;;;1853:1;1838:11;1853:1;1833:21;;;;;:32;1823:42;1815:80;;;;;-1:-1:-1;;;1815:80:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;1912:12;;;;;;;;;;;;;1694:237;-1:-1:-1;;;1694:237:2:o;1472:128::-;1571:7;531:3;1571:21;;1472:128::o;897:373:3:-;999:7;1019:9;1030;1043:13;1051:1;1054;1043:7;:13::i;:::-;1018:38;;;;1067:10;1093:1;1080:15;;;;;1090:1;1087;1080:15;1067:28;;1114:1;1109:2;:6;1105:18;;;1122:1;1117:6;;;;1105:18;1133:7;;;;;1155:6;1151:24;;1174:1;1170;:5;;;;;;1163:12;;;;;;;1151:24;1198:1;1194;:5;1186:44;;;;;-1:-1:-1;;;1186:44:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;1247:16;1255:1;1258;1261;1247:7;:16::i;:::-;1240:23;897:373;-1:-1:-1;;;;;;;897:373:3:o;216:206::-;278:9;;;-1:-1:-1;;333:1:3;330;323:25;310:38;;366:1;362;:5;358:9;;386:1;381:2;:6;377:10;;406:1;401:2;:6;397:18;;;414:1;409:6;;;;397:18;216:206;;;;;;:::o;428:463::-;530:7;568:2;;;564:6;;;569:1;564:6;580:9;;;;;;;604:4;599:9;;;;;;;;;638:4;630;629:5;;628:14;;;;;685:1;:9;;;713:5;;;709:9;;704:14;737:5;;;733:9;;728:14;761:5;;;757:9;;752:14;785:5;;;781:9;;776:14;809:5;;;805:9;;800:14;833:5;;;829:9;;824:14;857:5;;;853:9;;848:14;;;628;;645:1;628:18;623:24;;;;618:29;;;;879:5;;428:463;-1:-1:-1;;428:463:3:o;704:5705:16:-;;;;;;;;;;-1:-1:-1;704:5705:16;;;:::o;:::-;;;;;;;;;;;;;;:::o",
+  "deployedSourceMap": "704:5705:16:-:0;;;;5:9:-1;2:2;;;27:1;24;17:12;2:2;704:5705:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12:1:-1;9;2:12;1643:34:16;;;:::i;:::-;;;;;;;;;;;;;;;;;;;1058:32;;;:::i;:::-;;;;;;;;;;;;;;;;5345:1062;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;5345:1062:16;;;;;;;;;;;;;;;;;:::i;1911:57::-;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;1911:57:16;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;922:32;;;:::i;:::-;;;;-1:-1:-1;;;;;922:32:16;;;;;;;;;;;;;;3373:1050;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;;;;;;3373:1050:16;;;;;;;;;;:::i;:::-;;2489:185;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;2489:185:16;;:::i;1794:32::-;;;:::i;1643:34::-;;;:::o;1058:32::-;;;:::o;5345:1062::-;5435:14;5461:12;5476:52;5501:7;5510;5519:8;5476:24;:52::i;:::-;5461:67;;5538:36;5577:33;5605:4;5577:27;:33::i;:::-;5658:26;;5538:72;;-1:-1:-1;5640:15:16;:44;5717:10;5702:25;;;5694:89;;;;-1:-1:-1;;;5694:89:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5861:10;5874:1;5861:14;5848:10;:27;5833:11;:42;;5825:99;;;;-1:-1:-1;;;5825:99:16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5936:21;5959;5985:52;6032:4;5985:46;:52::i;:::-;5935:102;;;;;6048:14;6067:46;6095:7;6104:8;6067:27;:46::i;:::-;6047:66;;;6138:7;-1:-1:-1;;;;;6128:17:16;:6;-1:-1:-1;;;;;6128:17:16;;6124:277;;;6168:92;6185:16;:33;;;6220:16;6238:11;6251:8;6168:16;:92::i;:::-;6161:99;;;;;;;;;;6124:277;6298:92;6315:16;:33;;;6350:16;6368:11;6381:8;6298:16;:92::i;5345:1062::-;;;;;;:::o;1911:57::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;1911:57:16;;-1:-1:-1;1911:57:16;:::o;922:32::-;;;:::o;3373:1050::-;3440:12;3455:49;3480:7;3489:6;3497;3455:24;:49::i;:::-;-1:-1:-1;;;;;3601:22:16;;3592:6;3601:22;;;;;;;;;;:29;3440:64;;-1:-1:-1;3587:121:16;3636:11;3632:15;;:1;:15;3587:121;;;-1:-1:-1;;;;;3668:22:16;;:16;:22;;;;;;;;;;27:10:-1;;3668:29:16;23:18:-1;;;45:23;;3668:29:16;;3649:3;3587:121;;;;3772:22;3797:35;3816:15;3797:18;:35::i;:::-;-1:-1:-1;;;;;3876:22:16;;3842:31;3876:22;;;;;;;;;;:40;;3772:60;;-1:-1:-1;3842:31:16;;3876:40;;;;;;;;;;;;;;;;;;;;;;;4054:21;;3876:40;;-1:-1:-1;4036:15:16;:39;4103:10;4089:24;;4085:332;;;4130:21;4153;4179:52;4226:4;4179:46;:52::i;:::-;-1:-1:-1;4269:15:16;4245:39;;4298:28;;;:47;;;;4359:28;;;:47;-1:-1:-1;;4085:332:16;3373:1050;;;;;;:::o;2489:185::-;2554:11;2577:16;2608:10;2596:9;:22;;;;;;2577:41;;2655:11;2641:25;;:11;:25;;;;;;;2489:185;-1:-1:-1;;;2489:185:16:o;1794:32::-;;;:::o;715:470:29:-;804:12;829:14;845;863:26;874:6;882;863:10;:26::i;:::-;1023:32;;;-1:-1:-1;;1023:32:29;;;;;;;;;;;;;;;;;;;;;;;;;22::-1;26:21;;;22:32;6:49;;1023:32:29;;;;;1013:43;;;;;;-1:-1:-1;;;;;;929:246:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;26:21:-1;;;22:32;;;6:49;;929:246:29;;;;;;;919:257;;;;;;;;;715:470;-1:-1:-1;;;;;715:470:29:o;2795:425:16:-;2868:36;2916:22;2941:35;2960:15;2941:18;:35::i;:::-;2916:60;;3073:27;3128:11;3103:36;;3104:16;3123:1;3104:20;3103:36;;;;;;;;3073:66;;3168:16;:22;3185:4;-1:-1:-1;;;;;3168:22:16;-1:-1:-1;;;;;3168:22:16;;;;;;;;;;;;3191:21;3168:45;;;;;;;;;;;;;;;;;;;;3149:64;;2795:425;;;;;:::o;646:1040:31:-;730:21;753;776;826:23;:21;:23::i;:::-;809:40;;893:4;-1:-1:-1;;;;;878:41:31;;:43;;;;;;;;;;;;;;;;;;;;;;5:9:-1;2:2;;;27:1;24;17:12;2:2;878:43:31;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;878:43:31;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;878:43:31;950;;;-1:-1:-1;;;950:43:31;;;;878;;-1:-1:-1;;;;;;950:41:31;;;;;:43;;;;;878;;950;;;;;;;;:41;:43;;;2:2:-1;;;;27:1;24;17:12;2:2;950:43:31;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;950:43:31;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;950:43:31;1170:34;;;-1:-1:-1;;;1170:34:31;;;;950:43;;-1:-1:-1;1105:16:31;;;;;;-1:-1:-1;;;;;1170:32:31;;;;;:34;;;;;;;;;;;;;;:32;:34;;;2:2:-1;;;;27:1;24;17:12;2:2;1170:34:31;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1170:34:31;;;;;;;15:2:-1;10:3;7:11;4:2;;;31:1;28;21:12;4:2;-1:-1;1170:34:31;;;;;;;;;;;;;-1:-1:-1;1170:34:31;;-1:-1:-1;1170:34:31;-1:-1:-1;1218:36:31;;;;;;;;1214:466;;1338:35;;;1481:62;;;1486:39;-1:-1:-1;;;;;1486:39:31;;;;;;:19;:39::i;:::-;:42;;;-1:-1:-1;;;;;1481:48:31;:62;1461:82;;;;1658:11;1607:62;;1612:39;1632:8;-1:-1:-1;;;;;1612:39:31;1642:8;-1:-1:-1;;;;;1612:39:31;:19;:39::i;:::-;:42;-1:-1:-1;;;;;1607:48:31;:62;1587:82;;;;;-1:-1:-1;1214:466:31;646:1040;;;;;;;;:::o;281:345:29:-;356:14;372;416:6;-1:-1:-1;;;;;406:16:29;:6;-1:-1:-1;;;;;406:16:29;;;398:66;;;;-1:-1:-1;;;398:66:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;502:6;-1:-1:-1;;;;;493:15:29;:6;-1:-1:-1;;;;;493:15:29;;:53;;531:6;539;493:53;;;512:6;520;493:53;474:72;;-1:-1:-1;474:72:29;-1:-1:-1;;;;;;564:20:29;;556:63;;;;;-1:-1:-1;;;556:63:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;281:345;;;;;:::o;4623:433:16:-;4778:14;4836:40;;:::i;:::-;4879:110;;;;;;;;4967:11;4943:20;4922:18;:41;4921:57;;;;;;-1:-1:-1;;;;;4879:110:16;;;4836:153;-1:-1:-1;5011:38:16;:26;4836:153;5028:8;5011:16;:26::i;:::-;:36;:38::i;:::-;-1:-1:-1;;;;;4999:50:16;;4623:433;-1:-1:-1;;;;;;4623:433:16:o;422:121:31:-;510:25;:15;:25;;422:121::o;4526:706:2:-;4607:16;;:::i;:::-;4657:1;4643:11;:15;4635:66;;;;-1:-1:-1;;;4635:66:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4715:14;4711:50;;-1:-1:-1;4738:23:2;;;;;;;;;-1:-1:-1;4738:23:2;;4731:30;;4711:50;-1:-1:-1;;;;;4776:24:2;;4772:454;;4816:14;4861:11;531:3;4834:23;;;4861:11;4833:39;;;;;;-1:-1:-1;;;;;;4894:21:2;;;4886:64;;;;;-1:-1:-1;;;4886:64:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;4971:26;;;;;;;;4989:6;-1:-1:-1;;;;;4971:26:2;;;;4964:33;;;;;4772:454;5028:14;5045:45;5061:9;-1:-1:-1;;;5078:11:2;5045:15;:45::i;:::-;5028:62;-1:-1:-1;;;;;;5112:21:2;;;5104:64;;;;;-1:-1:-1;;;5104:64:2;;;;;;;;;;;;;;;;;;;;;;;;;;;4772:454;4526:706;;;;:::o;1694:237::-;1764:16;;:::i;:::-;1792:9;1823:6;;;:42;;-1:-1:-1;;1858:7:2;;-1:-1:-1;;;;;1833:32:2;1838:11;;;;1853:1;1838:11;1853:1;1833:21;;;;;:32;1823:42;1815:80;;;;;-1:-1:-1;;;1815:80:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;1912:12;;;;;;;;;;;;;1694:237;-1:-1:-1;;;1694:237:2:o;1472:128::-;1571:7;531:3;1571:21;;1472:128::o;897:373:3:-;999:7;1019:9;1030;1043:13;1051:1;1054;1043:7;:13::i;:::-;1018:38;;;;1067:10;1093:1;1080:15;;;;;1090:1;1087;1080:15;1067:28;;1114:1;1109:2;:6;1105:18;;;1122:1;1117:6;;;;1105:18;1133:7;;;;;1155:6;1151:24;;1174:1;1170;:5;;;;;;1163:12;;;;;;;1151:24;1198:1;1194;:5;1186:44;;;;;-1:-1:-1;;;1186:44:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;1247:16;1255:1;1258;1261;1247:7;:16::i;:::-;1240:23;897:373;-1:-1:-1;;;;;;;897:373:3:o;216:206::-;278:9;;;-1:-1:-1;;333:1:3;330;323:25;310:38;;366:1;362;:5;358:9;;386:1;381:2;:6;377:10;;406:1;401:2;:6;397:18;;;414:1;409:6;;;;397:18;216:206;;;;;;:::o;428:463::-;530:7;568:2;;;564:6;;;569:1;564:6;580:9;;;;;;;604:4;599:9;;;;;;;;;638:4;630;629:5;;628:14;;;;;685:1;:9;;;713:5;;;709:9;;704:14;737:5;;;733:9;;728:14;761:5;;;757:9;;752:14;785:5;;;781:9;;776:14;809:5;;;805:9;;800:14;833:5;;;829:9;;824:14;857:5;;;853:9;;848:14;;;628;;645:1;628:18;623:24;;;;618:29;;;;879:5;;428:463;-1:-1:-1;;428:463:3:o;704:5705:16:-;;;;;;;;;;-1:-1:-1;704:5705:16;;;:::o;:::-;;;;;;;;;;;;;;:::o",
   "source": "pragma solidity =0.6.6;\n\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';\nimport '@uniswap/lib/contracts/libraries/FixedPoint.sol';\n\nimport '../libraries/SafeMath.sol';\nimport '../libraries/UniswapV2Library.sol';\nimport '../libraries/UniswapV2OracleLibrary.sol';\n\n// sliding window oracle that uses observations collected over a window to provide moving price averages in the past\n// `windowSize` with a precision of `windowSize / granularity`\n// note this is a singleton oracle and only needs to be deployed once per desired parameters, which\n// differs from the simple oracle which must be deployed once per pair.\ncontract ExampleSlidingWindowOracle {\n    using FixedPoint for *;\n    using SafeMath for uint;\n\n    struct Observation {\n        uint timestamp;\n        uint price0Cumulative;\n        uint price1Cumulative;\n    }\n\n    address public immutable factory;\n    // the desired amount of time over which the moving average should be computed, e.g. 24 hours\n    uint public immutable windowSize;\n    // the number of observations stored for each pair, i.e. how many price observations are stored for the window.\n    // as granularity increases from 1, more frequent updates are needed, but moving averages become more precise.\n    // averages are computed over intervals with sizes in the range:\n    //   [windowSize - (windowSize / granularity) * 2, windowSize]\n    // e.g. if the window size is 24 hours, and the granularity is 24, the oracle will return the average price for\n    //   the period:\n    //   [now - [22 hours, 24 hours], now]\n    uint8 public immutable granularity;\n    // this is redundant with granularity and windowSize, but stored for gas savings & informational purposes.\n    uint public immutable periodSize;\n\n    // mapping from pair address to a list of price observations of that pair\n    mapping(address => Observation[]) public pairObservations;\n\n    constructor(address factory_, uint windowSize_, uint8 granularity_) public {\n        require(granularity_ > 1, 'SlidingWindowOracle: GRANULARITY');\n        require(\n            (periodSize = windowSize_ / granularity_) * granularity_ == windowSize_,\n            'SlidingWindowOracle: WINDOW_NOT_EVENLY_DIVISIBLE'\n        );\n        factory = factory_;\n        windowSize = windowSize_;\n        granularity = granularity_;\n    }\n\n    // returns the index of the observation corresponding to the given timestamp\n    function observationIndexOf(uint timestamp) public view returns (uint8 index) {\n        uint epochPeriod = timestamp / periodSize;\n        return uint8(epochPeriod % granularity);\n    }\n\n    // returns the observation from the oldest epoch (at the beginning of the window) relative to the current time\n    function getFirstObservationInWindow(address pair) private view returns (Observation storage firstObservation) {\n        uint8 observationIndex = observationIndexOf(block.timestamp);\n        // no overflow issue. if observationIndex + 1 overflows, result is still zero.\n        uint8 firstObservationIndex = (observationIndex + 1) % granularity;\n        firstObservation = pairObservations[pair][firstObservationIndex];\n    }\n\n    // update the cumulative price for the observation at the current timestamp. each observation is updated at most\n    // once per epoch period.\n    function update(address tokenA, address tokenB) external {\n        address pair = UniswapV2Library.pairFor(factory, tokenA, tokenB);\n\n        // populate the array with empty observations (first call only)\n        for (uint i = pairObservations[pair].length; i < granularity; i++) {\n            pairObservations[pair].push();\n        }\n\n        // get the observation for the current period\n        uint8 observationIndex = observationIndexOf(block.timestamp);\n        Observation storage observation = pairObservations[pair][observationIndex];\n\n        // we only want to commit updates once per period (i.e. windowSize / granularity)\n        uint timeElapsed = block.timestamp - observation.timestamp;\n        if (timeElapsed > periodSize) {\n            (uint price0Cumulative, uint price1Cumulative,) = UniswapV2OracleLibrary.currentCumulativePrices(pair);\n            observation.timestamp = block.timestamp;\n            observation.price0Cumulative = price0Cumulative;\n            observation.price1Cumulative = price1Cumulative;\n        }\n    }\n\n    // given the cumulative prices of the start and end of a period, and the length of the period, compute the average\n    // price in terms of how much amount out is received for the amount in\n    function computeAmountOut(\n        uint priceCumulativeStart, uint priceCumulativeEnd,\n        uint timeElapsed, uint amountIn\n    ) private pure returns (uint amountOut) {\n        // overflow is desired.\n        FixedPoint.uq112x112 memory priceAverage = FixedPoint.uq112x112(\n            uint224((priceCumulativeEnd - priceCumulativeStart) / timeElapsed)\n        );\n        amountOut = priceAverage.mul(amountIn).decode144();\n    }\n\n    // returns the amount out corresponding to the amount in for a given token using the moving average over the time\n    // range [now - [windowSize, windowSize - periodSize * 2], now]\n    // update must have been called for the bucket corresponding to timestamp `now - windowSize`\n    function consult(address tokenIn, uint amountIn, address tokenOut) external view returns (uint amountOut) {\n        address pair = UniswapV2Library.pairFor(factory, tokenIn, tokenOut);\n        Observation storage firstObservation = getFirstObservationInWindow(pair);\n\n        uint timeElapsed = block.timestamp - firstObservation.timestamp;\n        require(timeElapsed <= windowSize, 'SlidingWindowOracle: MISSING_HISTORICAL_OBSERVATION');\n        // should never happen.\n        require(timeElapsed >= windowSize - periodSize * 2, 'SlidingWindowOracle: UNEXPECTED_TIME_ELAPSED');\n\n        (uint price0Cumulative, uint price1Cumulative,) = UniswapV2OracleLibrary.currentCumulativePrices(pair);\n        (address token0,) = UniswapV2Library.sortTokens(tokenIn, tokenOut);\n\n        if (token0 == tokenIn) {\n            return computeAmountOut(firstObservation.price0Cumulative, price0Cumulative, timeElapsed, amountIn);\n        } else {\n            return computeAmountOut(firstObservation.price1Cumulative, price1Cumulative, timeElapsed, amountIn);\n        }\n    }\n}\n",
-  "sourcePath": "/home/thiou/Truffle/UniswapFork/periphery/contracts/examples/ExampleSlidingWindowOracle.sol",
+  "sourcePath": "/Users/nicolasvilla/project/defi-alyra-team/periphery/contracts/examples/ExampleSlidingWindowOracle.sol",
   "ast": {
     "absolutePath": "project:/contracts/examples/ExampleSlidingWindowOracle.sol",
     "exportedSymbols": {
@@ -308,7 +308,7 @@
         "id": 6488,
         "nodeType": "ImportDirective",
         "scope": 6839,
-        "sourceUnit": 7696,
+        "sourceUnit": 8362,
         "src": "221:35:16",
         "symbolAliases": [],
         "unitAlias": ""
@@ -319,7 +319,7 @@
         "id": 6489,
         "nodeType": "ImportDirective",
         "scope": 6839,
-        "sourceUnit": 8168,
+        "sourceUnit": 8834,
         "src": "257:43:16",
         "symbolAliases": [],
         "unitAlias": ""
@@ -330,7 +330,7 @@
         "id": 6490,
         "nodeType": "ImportDirective",
         "scope": 6839,
-        "sourceUnit": 8741,
+        "sourceUnit": 9407,
         "src": "301:49:16",
         "symbolAliases": [],
         "unitAlias": ""
@@ -374,10 +374,10 @@
               "id": 6493,
               "name": "SafeMath",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 7695,
+              "referencedDeclaration": 8361,
               "src": "780:8:16",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_SafeMath_$7695",
+                "typeIdentifier": "t_contract$_SafeMath_$8361",
                 "typeString": "library SafeMath"
               }
             },
@@ -2079,10 +2079,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 8167,
+                        "referencedDeclaration": 8833,
                         "src": "3455:16:16",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8167_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8833_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -2093,7 +2093,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 7791,
+                      "referencedDeclaration": 8457,
                       "src": "3455:24:16",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -2859,10 +2859,10 @@
                               "name": "UniswapV2OracleLibrary",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 8740,
+                              "referencedDeclaration": 9406,
                               "src": "4179:22:16",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_UniswapV2OracleLibrary_$8740_$",
+                                "typeIdentifier": "t_type$_t_contract$_UniswapV2OracleLibrary_$9406_$",
                                 "typeString": "type(library UniswapV2OracleLibrary)"
                               }
                             },
@@ -2873,7 +2873,7 @@
                             "lValueRequested": false,
                             "memberName": "currentCumulativePrices",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 8739,
+                            "referencedDeclaration": 9405,
                             "src": "4179:46:16",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_view$_t_address_$returns$_t_uint256_$_t_uint256_$_t_uint32_$",
@@ -3841,10 +3841,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 8167,
+                        "referencedDeclaration": 8833,
                         "src": "5476:16:16",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8167_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8833_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -3855,7 +3855,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 7791,
+                      "referencedDeclaration": 8457,
                       "src": "5476:24:16",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -4474,10 +4474,10 @@
                         "name": "UniswapV2OracleLibrary",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 8740,
+                        "referencedDeclaration": 9406,
                         "src": "5985:22:16",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2OracleLibrary_$8740_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2OracleLibrary_$9406_$",
                           "typeString": "type(library UniswapV2OracleLibrary)"
                         }
                       },
@@ -4488,7 +4488,7 @@
                       "lValueRequested": false,
                       "memberName": "currentCumulativePrices",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 8739,
+                      "referencedDeclaration": 9405,
                       "src": "5985:46:16",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_view$_t_address_$returns$_t_uint256_$_t_uint256_$_t_uint32_$",
@@ -4598,10 +4598,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 8167,
+                        "referencedDeclaration": 8833,
                         "src": "6067:16:16",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8167_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$8833_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -4612,7 +4612,7 @@
                       "lValueRequested": false,
                       "memberName": "sortTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 7746,
+                      "referencedDeclaration": 8412,
                       "src": "6067:27:16",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$returns$_t_address_$_t_address_$",
@@ -5169,7 +5169,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 7696,
+          "SourceUnit": 8362,
           "absolutePath": "project:/contracts/libraries/SafeMath.sol",
           "file": "../libraries/SafeMath.sol",
           "scope": 6839,
@@ -5184,7 +5184,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 8168,
+          "SourceUnit": 8834,
           "absolutePath": "project:/contracts/libraries/UniswapV2Library.sol",
           "file": "../libraries/UniswapV2Library.sol",
           "scope": 6839,
@@ -5199,7 +5199,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 8741,
+          "SourceUnit": 9407,
           "absolutePath": "project:/contracts/libraries/UniswapV2OracleLibrary.sol",
           "file": "../libraries/UniswapV2OracleLibrary.sol",
           "scope": 6839,
@@ -5258,7 +5258,7 @@
                 "attributes": {
                   "contractScope": null,
                   "name": "SafeMath",
-                  "referencedDeclaration": 7695,
+                  "referencedDeclaration": 8361,
                   "type": "library SafeMath"
                 },
                 "id": 6493,
@@ -7118,7 +7118,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 7791,
+                              "referencedDeclaration": 8457,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -7128,7 +7128,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 8167,
+                                  "referencedDeclaration": 8833,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -7982,7 +7982,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "currentCumulativePrices",
-                                      "referencedDeclaration": 8739,
+                                      "referencedDeclaration": 9405,
                                       "type": "function (address) view returns (uint256,uint256,uint32)"
                                     },
                                     "children": [
@@ -7992,7 +7992,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 8740,
+                                          "referencedDeclaration": 9406,
                                           "type": "type(library UniswapV2OracleLibrary)",
                                           "value": "UniswapV2OracleLibrary"
                                         },
@@ -9072,7 +9072,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 7791,
+                              "referencedDeclaration": 8457,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -9082,7 +9082,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 8167,
+                                  "referencedDeclaration": 8833,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -9764,7 +9764,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "currentCumulativePrices",
-                              "referencedDeclaration": 8739,
+                              "referencedDeclaration": 9405,
                               "type": "function (address) view returns (uint256,uint256,uint32)"
                             },
                             "children": [
@@ -9774,7 +9774,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 8740,
+                                  "referencedDeclaration": 9406,
                                   "type": "type(library UniswapV2OracleLibrary)",
                                   "value": "UniswapV2OracleLibrary"
                                 },
@@ -9881,7 +9881,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "sortTokens",
-                              "referencedDeclaration": 7746,
+                              "referencedDeclaration": 8412,
                               "type": "function (address,address) pure returns (address,address)"
                             },
                             "children": [
@@ -9891,7 +9891,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 8167,
+                                  "referencedDeclaration": 8833,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -10307,7 +10307,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-12-06T09:40:54.970Z",
+  "updatedAt": "2021-12-08T10:51:55.892Z",
   "devdoc": {
     "methods": {}
   },

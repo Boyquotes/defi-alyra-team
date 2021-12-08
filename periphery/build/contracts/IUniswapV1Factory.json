@@ -28,19 +28,19 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "pragma solidity >=0.5.0;\n\ninterface IUniswapV1Factory {\n    function getExchange(address) external view returns (address);\n}\n",
-  "sourcePath": "/home/thiou/Truffle/UniswapFork/periphery/contracts/interfaces/V1/IUniswapV1Factory.sol",
+  "sourcePath": "/Users/nicolasvilla/project/defi-alyra-team/periphery/contracts/interfaces/V1/IUniswapV1Factory.sol",
   "ast": {
     "absolutePath": "project:/contracts/interfaces/V1/IUniswapV1Factory.sol",
     "exportedSymbols": {
       "IUniswapV1Factory": [
-        7620
+        8286
       ]
     },
-    "id": 7621,
+    "id": 8287,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 7612,
+        "id": 8278,
         "literals": [
           "solidity",
           ">=",
@@ -48,7 +48,7 @@
           ".0"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:24"
+        "src": "0:24:27"
       },
       {
         "abstract": false,
@@ -57,9 +57,9 @@
         "contractKind": "interface",
         "documentation": null,
         "fullyImplemented": false,
-        "id": 7620,
+        "id": 8286,
         "linearizedBaseContracts": [
-          7620
+          8286
         ],
         "name": "IUniswapV1Factory",
         "nodeType": "ContractDefinition",
@@ -68,7 +68,7 @@
             "body": null,
             "documentation": null,
             "functionSelector": "06f2bf62",
-            "id": 7619,
+            "id": 8285,
             "implemented": false,
             "kind": "function",
             "modifiers": [],
@@ -76,18 +76,18 @@
             "nodeType": "FunctionDefinition",
             "overrides": null,
             "parameters": {
-              "id": 7615,
+              "id": 8281,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 7614,
+                  "id": 8280,
                   "mutability": "mutable",
                   "name": "",
                   "nodeType": "VariableDeclaration",
                   "overrides": null,
-                  "scope": 7619,
-                  "src": "81:7:24",
+                  "scope": 8285,
+                  "src": "81:7:27",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -95,10 +95,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 7613,
+                    "id": 8279,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "81:7:24",
+                    "src": "81:7:27",
                     "stateMutability": "nonpayable",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -109,21 +109,21 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "80:9:24"
+              "src": "80:9:27"
             },
             "returnParameters": {
-              "id": 7618,
+              "id": 8284,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 7617,
+                  "id": 8283,
                   "mutability": "mutable",
                   "name": "",
                   "nodeType": "VariableDeclaration",
                   "overrides": null,
-                  "scope": 7619,
-                  "src": "113:7:24",
+                  "scope": 8285,
+                  "src": "113:7:27",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -131,10 +131,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 7616,
+                    "id": 8282,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "113:7:24",
+                    "src": "113:7:27",
                     "stateMutability": "nonpayable",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -145,27 +145,27 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "112:9:24"
+              "src": "112:9:27"
             },
-            "scope": 7620,
-            "src": "60:62:24",
+            "scope": 8286,
+            "src": "60:62:27",
             "stateMutability": "view",
             "virtual": false,
             "visibility": "external"
           }
         ],
-        "scope": 7621,
-        "src": "26:98:24"
+        "scope": 8287,
+        "src": "26:98:27"
       }
     ],
-    "src": "0:125:24"
+    "src": "0:125:27"
   },
   "legacyAST": {
     "attributes": {
       "absolutePath": "project:/contracts/interfaces/V1/IUniswapV1Factory.sol",
       "exportedSymbols": {
         "IUniswapV1Factory": [
-          7620
+          8286
         ]
       }
     },
@@ -179,9 +179,9 @@
             ".0"
           ]
         },
-        "id": 7612,
+        "id": 8278,
         "name": "PragmaDirective",
-        "src": "0:24:24"
+        "src": "0:24:27"
       },
       {
         "attributes": {
@@ -196,10 +196,10 @@
           "documentation": null,
           "fullyImplemented": false,
           "linearizedBaseContracts": [
-            7620
+            8286
           ],
           "name": "IUniswapV1Factory",
-          "scope": 7621
+          "scope": 8287
         },
         "children": [
           {
@@ -215,7 +215,7 @@
               ],
               "name": "getExchange",
               "overrides": null,
-              "scope": 7620,
+              "scope": 8286,
               "stateMutability": "view",
               "virtual": false,
               "visibility": "external"
@@ -229,7 +229,7 @@
                       "mutability": "mutable",
                       "name": "",
                       "overrides": null,
-                      "scope": 7619,
+                      "scope": 8285,
                       "stateVariable": false,
                       "storageLocation": "default",
                       "type": "address",
@@ -243,19 +243,19 @@
                           "stateMutability": "nonpayable",
                           "type": "address"
                         },
-                        "id": 7613,
+                        "id": 8279,
                         "name": "ElementaryTypeName",
-                        "src": "81:7:24"
+                        "src": "81:7:27"
                       }
                     ],
-                    "id": 7614,
+                    "id": 8280,
                     "name": "VariableDeclaration",
-                    "src": "81:7:24"
+                    "src": "81:7:27"
                   }
                 ],
-                "id": 7615,
+                "id": 8281,
                 "name": "ParameterList",
-                "src": "80:9:24"
+                "src": "80:9:27"
               },
               {
                 "children": [
@@ -265,7 +265,7 @@
                       "mutability": "mutable",
                       "name": "",
                       "overrides": null,
-                      "scope": 7619,
+                      "scope": 8285,
                       "stateVariable": false,
                       "storageLocation": "default",
                       "type": "address",
@@ -279,34 +279,34 @@
                           "stateMutability": "nonpayable",
                           "type": "address"
                         },
-                        "id": 7616,
+                        "id": 8282,
                         "name": "ElementaryTypeName",
-                        "src": "113:7:24"
+                        "src": "113:7:27"
                       }
                     ],
-                    "id": 7617,
+                    "id": 8283,
                     "name": "VariableDeclaration",
-                    "src": "113:7:24"
+                    "src": "113:7:27"
                   }
                 ],
-                "id": 7618,
+                "id": 8284,
                 "name": "ParameterList",
-                "src": "112:9:24"
+                "src": "112:9:27"
               }
             ],
-            "id": 7619,
+            "id": 8285,
             "name": "FunctionDefinition",
-            "src": "60:62:24"
+            "src": "60:62:27"
           }
         ],
-        "id": 7620,
+        "id": 8286,
         "name": "ContractDefinition",
-        "src": "26:98:24"
+        "src": "26:98:27"
       }
     ],
-    "id": 7621,
+    "id": 8287,
     "name": "SourceUnit",
-    "src": "0:125:24"
+    "src": "0:125:27"
   },
   "compiler": {
     "name": "solc",
@@ -314,7 +314,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-12-06T09:40:55.006Z",
+  "updatedAt": "2021-12-08T10:51:55.912Z",
   "devdoc": {
     "methods": {}
   },
