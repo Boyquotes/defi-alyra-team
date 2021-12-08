@@ -1,4 +1,24 @@
+DeFi project par Mathieu C. et Nicolas V.
+
+# Installation
+```
+git clone git@github.com:Boyquotes/defi-alyra-team.git
+```
 # Fork UniswapV2
+## Installation des dependances
+```
+cd core/
+npm install
+```
+```
+cd perifery/
+cd periphery
+```
+## Compilation des contrats et execution des migrations qui set les pairs et ajoute de la liquidite a celles-ci
+
+```
+truffle migrate --reset
+```
 
 
 # Fork Masterchef Sushiswap
